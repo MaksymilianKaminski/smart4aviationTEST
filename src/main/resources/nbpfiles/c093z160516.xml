@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<tabela_kursow typ="C" uid="16c093">
+   <numer_tabeli>093/C/NBP/2016</numer_tabeli>
+   <data_notowania>2016-05-13</data_notowania>
+   <data_publikacji>2016-05-16</data_publikacji>
+   <pozycja>
+      <nazwa_waluty>dolar amerykański</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>USD</kod_waluty>
+      <kurs_kupna>3,8582</kurs_kupna>
+      <kurs_sprzedazy>3,9362</kurs_sprzedazy>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>dolar australijski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>AUD</kod_waluty>
+      <kurs_kupna>2,8030</kurs_kupna>
+      <kurs_sprzedazy>2,8596</kurs_sprzedazy>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>dolar kanadyjski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>CAD</kod_waluty>
+      <kurs_kupna>2,9837</kurs_kupna>
+      <kurs_sprzedazy>3,0439</kurs_sprzedazy>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>euro</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>EUR</kod_waluty>
+      <kurs_kupna>4,3586</kurs_kupna>
+      <kurs_sprzedazy>4,4466</kurs_sprzedazy>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>forint (Węgry)</nazwa_waluty>
+      <przelicznik>100</przelicznik>
+      <kod_waluty>HUF</kod_waluty>
+      <kurs_kupna>1,3801</kurs_kupna>
+      <kurs_sprzedazy>1,4079</kurs_sprzedazy>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>frank szwajcarski</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>CHF</kod_waluty>
+      <kurs_kupna>3,9501</kurs_kupna>
+      <kurs_sprzedazy>4,0299</kurs_sprzedazy>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>funt szterling</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>GBP</kod_waluty>
+      <kurs_kupna>5,5383</kurs_kupna>
+      <kurs_sprzedazy>5,6501</kurs_sprzedazy>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>jen (Japonia)</nazwa_waluty>
+      <przelicznik>100</przelicznik>
+      <kod_waluty>JPY</kod_waluty>
+      <kurs_kupna>3,5303</kurs_kupna>
+      <kurs_sprzedazy>3,6017</kurs_sprzedazy>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>korona czeska</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>CZK</kod_waluty>
+      <kurs_kupna>0,1613</kurs_kupna>
+      <kurs_sprzedazy>0,1645</kurs_sprzedazy>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>korona duńska</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>DKK</kod_waluty>
+      <kurs_kupna>0,5859</kurs_kupna>
+      <kurs_sprzedazy>0,5977</kurs_sprzedazy>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>korona norweska</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>NOK</kod_waluty>
+      <kurs_kupna>0,4697</kurs_kupna>
+      <kurs_sprzedazy>0,4791</kurs_sprzedazy>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>korona szwedzka</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>SEK</kod_waluty>
+      <kurs_kupna>0,4669</kurs_kupna>
+      <kurs_sprzedazy>0,4763</kurs_sprzedazy>
+   </pozycja>
+   <pozycja>
+      <nazwa_waluty>SDR (MFW)</nazwa_waluty>
+      <przelicznik>1</przelicznik>
+      <kod_waluty>XDR</kod_waluty>
+      <kurs_kupna>5,4193</kurs_kupna>
+      <kurs_sprzedazy>5,5287</kurs_sprzedazy>
+   </pozycja>
+</tabela_kursow>

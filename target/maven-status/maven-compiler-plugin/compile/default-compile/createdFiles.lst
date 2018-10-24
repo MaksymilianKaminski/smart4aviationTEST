@@ -1,0 +1,11 @@
+pl/parser/nbp/CurrencyAnalyzerFactory.class
+pl/parser/nbp/CurrencyAnalyzerData.class
+pl/parser/nbp/types/FileFormat.class
+pl/parser/nbp/exception/CurrencyAnalyzerException.class
+pl/parser/nbp/MainClass.class
+pl/parser/nbp/CurrencyAnalyzerType.class
+pl/parser/nbp/NbpCurrencyAnalyzer.class
+pl/parser/nbp/utils/MathUtils.class
+pl/parser/nbp/CurrencyAnalyzerData$CurrencyAnalyzerBuilder.class
+pl/parser/nbp/CurrencyAnalyzer.class
+pl/parser/nbp/utils/FileUtils.class
